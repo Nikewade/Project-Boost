@@ -6,6 +6,10 @@
 
 Welcome to Project Boost, a simple and engaging rocket-flying game developed during the "Complete C# Unity Game Developer 3D Online Course" by GameDev.tv. In this game, you aim to control a rocket and navigate it through challenging levels by reaching green platforms. Immerse yourself in the game's atmosphere as you strive to master rocket flight and reach new heights.
 
+<p align="center">
+  <a href="https://nikewade.itch.io/project-boost">Play The Game In The Browser Here!</a>
+</p>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Gameplay Overview](#gameplay-overview)
@@ -22,12 +26,14 @@ Welcome to Project Boost, a simple and engaging rocket-flying game developed dur
 Pilot your rocket through a series of challenging levels, aiming to land on each green platform to progress. Experience the thrill of rocket flight as you adjust thrust, navigate obstacles, and master the physics of flight.
 
 ## Features
-- Rocket-flying gameplay with realistic physics and controls.
+- Rocket-flying gameplay with easy-to-use controls.
 - Challenging levels with green platforms to reach and progress to the next stage.
-- Focus on game feel and atmosphere to enhance the player experience.
+- A Focus on game feel and atmosphere to enhance the player experience.
 
 ## Getting Started
 To begin your journey in "Project Boost," follow these steps:
+
+<a href="https://nikewade.itch.io/project-boost">Play The Game In The Browser Here</a>
 
 1. Clone or download this repository.
 2. Open the project in Unity (developed with Unity version 2020.3.23f1).
@@ -43,5 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions, feedback, or collaboration, you can contact me:
-- Email: your.email@example.com
-- Discord: yourusername#1234
+- Email: nikewade1006@gmail.com
+- Discord: nikewade
